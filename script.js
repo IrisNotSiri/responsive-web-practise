@@ -1,6 +1,5 @@
-document.querySelector('.hamburger-menu')
+document.querySelector(".hamburger-menu")
 .addEventListener('click', ()=>{
-  console.log('called');
-  document.querySelector('.container').classList.
-  toggle('change');
+  document.querySelector(".container").classList
+  .toggle('change')
 })
